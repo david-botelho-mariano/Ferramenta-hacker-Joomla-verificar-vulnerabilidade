@@ -2,4 +2,4 @@
 
 Ferramenta pessoal que serve para escanear uma lista de websites à procura de servidores Joomla vulneraveis a execucao de codigo remoto (RCE).
 
-![executando-programa-imagem](https://i.imgur.com/SteLGXb.png)
+![image](https://user-images.githubusercontent.com/48680041/146689570-1dcf6c0f-ce7c-4637-8d97-144c8f417d20.png)
